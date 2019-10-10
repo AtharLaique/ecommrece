@@ -1,0 +1,19 @@
+.footer {
+  background-color: #171717;
+  color: #cda545;
+}
+a:link {
+  text-decoration: none;
+  color: white;
+  font-size: 110%;
+}
+
+a:hover {
+  color: #cda545;
+}
+a:visited {
+  text-decoration: none;
+}
+.address {
+  color: white;
+}

@@ -1,0 +1,36 @@
+.main {
+    text-align: center;
+  }
+#header{
+    margin-top: 55px;
+    width:100%; 
+    min-height: 590px;
+    background: url('../img/v0.jpg');
+   
+  }
+  #headerContent{
+    
+    margin: 0px auto;
+    text-align: center;
+  }
+  #headerContent h1{
+    font-size: 130px;
+    font: outline;
+    color:black;
+   
+   }
+   #headerContent p{
+    font-size: 50px;
+    font: outline;
+    color:black;
+   }
+   .footer {
+   
+    margin-top: 50px;
+    width: 100%;
+    height: 2px;
+    background-color:black;
+    color: white;
+    text-align: center;
+    opacity: 0.8;
+}

@@ -1,0 +1,9 @@
+.hover-image, .c2:hover .normal-image {
+    display: none;
+   
+  }
+  
+  .c2:hover .hover-image {
+    display: inline;
+    box-shadow: 0 4px 8px 0 rgba(255, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
